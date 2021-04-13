@@ -8,4 +8,3 @@
 ## Дополнительные материалы:
 
 [History API](https://developer.mozilla.org/ru/docs/Web/API/History_API)
-
